@@ -1,3 +1,5 @@
+Based on tutorial: https://www.youtube.com/watch?v=eylH4KxDJJw&list=PLO_paZXQy1i7i1ouK1z393fB2TV2wvCrv&index=7
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
